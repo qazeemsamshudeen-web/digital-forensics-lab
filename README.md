@@ -18,7 +18,7 @@ Screenshots are included only at key points to provide clear evidence without cl
 3. **Choose Physical Drive → Select your drive**  
    ![Select Drive](ftk-select-drive.PNG)
 
-4. **Image type (E01) appears → Enter case name, number, and destination**  
+4. **Select Image type (E01) → Enter case name, number, and destination**  
 
 5. **Click Start → cloning begins**  
    ![Start Cloning](ftk-start-cloning.PNG)
