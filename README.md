@@ -13,13 +13,12 @@ Screenshots are included only at key points to provide clear evidence without cl
    ![Open FTK Imager](ftk-open.PNG)
 
 2. **Click the File tab (top right) → Select "Create Disk Image"**  
-   *(described in text, no screenshot needed)*
+
 
 3. **Choose Physical Drive → Select your drive**  
    ![Select Drive](ftk-select-drive.PNG)
 
 4. **Image type (E01) appears → Enter case name, number, and destination**  
-   *(described in text, no screenshot needed)*
 
 5. **Click Start → cloning begins**  
    ![Start Cloning](ftk-start-cloning.PNG)
@@ -33,7 +32,7 @@ Screenshots are included only at key points to provide clear evidence without cl
    - Enter a **Case Name**.
    - Skip optional information (or fill if needed).
    - Click **Finish** → Autopsy creates a database for the case.  
-   ![Open Case](autopsy-open-case.PNG)
+   ![Open Case](autopsy-open-case.png)
 
 2. **Select Host → Click Next**
    - Choose **Disk Image or VM File**.
