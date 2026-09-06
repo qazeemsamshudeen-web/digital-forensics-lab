@@ -5,6 +5,22 @@ Step-by-step forensic lab: deleted file recovery using FTK Imager &amp; Autopsy.
 This project documents the forensic process of imaging a USB drive using FTK Imager and recovering deleted files with Autopsy.  
 Screenshots are included only at key points to provide clear evidence without clutter.
 
+## Step 1: Evidence Preparation
+
+To simulate a real forensic scenario, I prepared the USB flash drive by:
+
+- Downloading two sample images:
+  - **Cat** 🐱  
+    ![Cat Image](images/cat.jpg)
+  - **Black Car** 🚗  
+    ![Black Car Image](images/blackcar.jpg)
+
+- Saving them onto the USB flash drive.
+- Deleting both files to create a case of potential evidence loss.
+
+This setup ensures that when the forensic recovery is performed, the **Cat image** reappears in the recovered files — making it clear that deleted data can still be retrieved.
+
+
 ---
 
 ## FTK Imager Workflow
