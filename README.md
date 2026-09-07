@@ -10,13 +10,15 @@ Screenshots are included only at key points to provide clear evidence without cl
 To simulate a real forensic scenario, I prepared the USB flash drive by:
 
 - Downloading two sample images:
-  - **Cat** 🐱  
-    ![Cat Image](images/cat.jpg)
-  - **Black Car** 🚗  
-    ![Black Car Image](images/blackcar.jpg)
+  - **Cat** 🐱   **Black Car** 🚗  
+    
+    ![USB before deletion](usb-before.png)
+ 
 
 - Saving them onto the USB flash drive.
 - Deleting both files to create a case of potential evidence loss.
+
+  ![USB before deletion](usb-after.png)
 
 This setup ensures that when the forensic recovery is performed, the **Cat image** reappears in the recovered files — making it clear that deleted data can still be retrieved.
 
@@ -76,7 +78,7 @@ This setup ensures that when the forensic recovery is performed, the **Cat image
   ![USB before deletion](usb-before.png)
 
 - **After deletion**  
-  ![USB after deletion](usb-after.png)
+    ![USB before deletion](usb-after.png)
 
 ---
 
